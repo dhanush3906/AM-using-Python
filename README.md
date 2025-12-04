@@ -44,7 +44,12 @@ plt.show()
 
 
 ## Output Waveform
-<img width="784" height="640" alt="image" src="https://github.com/user-attachments/assets/4dc45713-1ae1-4258-b71d-48105843bc2c" />
-![WhatsApp Image 2025-12-03 at 12 52 27_7e3ed870](https://github.com/user-attachments/assets/5dce1c21-f58d-412f-a8cd-e2039c3fe2b1)
+<img width="757" height="595" alt="image" src="https://github.com/user-attachments/assets/523f5a56-bcc2-459e-bfc4-3400a6cf00b4" />
+
+## tabular colum
+
+![exp 5](https://github.com/user-attachments/assets/a69cee3e-8a94-4b2a-a262-97aff2b2c207)
+
+
 ## Result
 The message signal, carrier signal, and amplitude modulated (AM) signal will be displayed in separate plots. The modulated signal will show amplitude variations corresponding to the amplitude of the message signal.
